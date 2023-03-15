@@ -1,0 +1,12 @@
+pages\Base\CRM\mainPage.class
+pages\Base\Base\BasePage.class
+common\Config.class
+pages\Base\CRM\CreateLid.class
+pages\Base\CRM\Deals.class
+constants\Constant$Date.class
+constants\Constant.class
+org\example\Main.class
+pages\Base\CRM\Autorization.class
+common\CommonActions.class
+pages\Base\CRM\AddLid.class
+constants\Constant$TimeoutVariable.class
